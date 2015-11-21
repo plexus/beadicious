@@ -1,14 +1,10 @@
-# beadicious
+# Beadicious
 
-A Clojure library designed to ... well, that part is up to you.
+Toying around with synthesizer shizzle in pure Java/Clojure. Based on [Beads](http://www.beadsproject.net/) following these docs: [Sound Synthesis in Java](http://evanxmerz.com/soundsynthjava/Sound_Synth_Java.html).
 
-## Usage
-
-FIXME
 
 ## License
 
 Copyright © 2015 FIXME
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Mozilla Public License Version 2.0
